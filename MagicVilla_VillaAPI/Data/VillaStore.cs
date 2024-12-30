@@ -9,4 +9,4 @@ namespace MagicVilla_VillaAPI.Data
                 new VillaDTO {Id= 2, Name= "Pool View", Occupancy=100, Sqft=3}
             };
     }
-}
+}       
